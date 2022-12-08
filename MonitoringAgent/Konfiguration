@@ -1,0 +1,16 @@
+Pfad=/Users/mavi/BA/Beispieldaten
+Interval_reboot=24
+ac_0_voltage=2
+ac_a_voltage=2
+ac_b_voltage=2
+dc_n_voltage=2
+dc_p_voltage=2
+average_sync_duration=7
+synchronization_rate_receiver=7
+synchronization_rate_sender=7
+invalid_sequence_numbers=5
+invalid_timestamps=5
+message_authentication_errors=5
+decryption_errors=5
+valid_messages=10
+late_messages=10
